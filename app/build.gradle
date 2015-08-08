@@ -24,4 +24,5 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:22.1.1'
     compile project(':git_lib/xUtils-master/xUtils_library')
+    compile files('libs/gson-2.3.1.jar')
 }

@@ -23,8 +23,10 @@
 
         <ImageButton
             android:id="@+id/btn_menu"
+
+            android:paddingRight="50sp"
             android:background="@null"
-            android:layout_marginLeft="10sp"
+            android:layout_marginLeft="20sp"
             android:src="@mipmap/img_menu"
             android:layout_centerVertical="true"
             android:layout_width="wrap_content"
